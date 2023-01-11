@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vova Krasniy
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning JS/TS/React/Redux
+- 👀 I’m interested in IOS development
+- 🌱 I’m currently learning Swift/UIKit/SwiftUI
 - 📫 How to reach me in telegram @krany13
 - ❓ It's my new GH account
 <!---
